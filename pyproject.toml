@@ -1,7 +1,7 @@
 [project]
 name = "accom-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI agent that finds student accommodation near Malaysian universities"
 readme = "README.md"
 authors = [
     { name = "hudezz", email = "hudhaifaabdikadir090@gmail.com" }
