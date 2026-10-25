@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[oc]
+
+# CSV outputs (keep the LRT station reference data)
+*.csv
+!data/lrt_stations.csv
+output/

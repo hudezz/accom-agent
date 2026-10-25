@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-tavily
+pydantic
+python-dotenv
+geopy
+gspread
+langchain-ollama
+ddgs
